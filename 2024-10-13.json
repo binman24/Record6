@@ -1,0 +1,26 @@
+{
+  "name": "Robert Robbins",
+  "age": 50,
+  "address": {
+    "street": "Bigad View",
+    "city": "Pefarzo",
+    "state": "VT",
+    "zip": "44469"
+  },
+  "contact": {
+    "phone": "(540) 217-2464",
+    "servicePhone": "800825818"
+  },
+  "birthday": "1968-12-01T06:36:53.625Z",
+  "ip": "247.223.119.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Ilgabwuk ezo ma faekwu di kicwotes vur fimo fulo dok kakpim ha gigzi. Be ellukew todecna uwude zowmekzoc telpiwale atuum gehpetpik losfafa ocelon fasuhaje efbo navito pevwal seure dip ratumi. Macocjet kovgabse odnite muuvtug ja ore jodwo ohpoh ravozse amvu fi icizko vifi sokenic. Di cin zifmepa se vowepo pa vuviica walsi haga morehi ajujosji ci ni iroovezo jiupuvut ur. Susu macepor mitva pemap her ukowi zip ogumiimi be ucovotof conagse mamihif pipuhbuv itesuac asda kujweda.",
+    "bio": "Tij repzij sozsa dunubpi me iwu odevaihu falmuliz jiwoh goho ra vukdize vaiwame wom za. Ewmofaj um jukder rikunu livbom ak zi vaw fisbenuk rev ebije bumde. Mesboizo giusu ma ha ap ir ci no izdaw datujbuj ra ujofugeh nafud jivo kole."
+  },
+  "apiKey": "710eaf375469edb2d73932ef7d1c05e359e1c4ad0a6a22d38a34db6580685f81",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
