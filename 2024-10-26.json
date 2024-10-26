@@ -1,0 +1,26 @@
+{
+  "name": "Ada Davidson",
+  "age": 20,
+  "address": {
+    "street": "Banda Avenue",
+    "city": "Ufsuhuge",
+    "state": "MN",
+    "zip": "74081"
+  },
+  "contact": {
+    "phone": "(620) 587-7746",
+    "servicePhone": "800943866"
+  },
+  "birthday": "1999-07-20T05:15:48.564Z",
+  "ip": "168.242.123.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Elokipah tuk tazip odi dulsa savhop sulunem doj fihozo le muejozu usu wil inossu us jac. Gule vafojdi figker safetek pin paj gudhonhi sahumha pi efhad ri hi ugdifi dejo. Cumekieh avruuta guva geteruah mo bevijse mumavmu guwamub nok peme mapralfo cakce bak vicpap izni af. Egutuwi feblitzus awbowtu keliva segfaca ankufes segu wahi etiew hinrimi ah erelozos uti ane. Alliw didah evi azu sadah sez jeic piele delokikuv dagebvu ju siz. Eje no ame ova ruw rak giet bicoek sishebsa acoderegu bikmoun naag dawsokih lotopuce. Gakge wov moducre sugocu riiw ha refacapec tubsop dicik usinogsi us re sif boz izdikrof.",
+    "bio": "Fiwdebip zuccezcuh acuisoce nelhij reghej cirejebe enisigos roke ulegaha ot falu sod kadac. Hifjo jiwohba up vinibir dum fogarad gejobi ihpivduv ugaticila rur lu cib jarvu vilammo re tol jov be. Fejetmu ke vofes co ohu ni zuso himde cotsajiw vag ejira nula avapeis ku."
+  },
+  "apiKey": "143a313b5d959cdb7f1cc2fe48073a9fc51932017913a11b75c5857d100a9b26",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
