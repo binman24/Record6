@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Norris",
+  "age": 24,
+  "address": {
+    "street": "Hojo Manor",
+    "city": "Rimozmef",
+    "state": "DC",
+    "zip": "33500"
+  },
+  "contact": {
+    "phone": "(881) 275-4715",
+    "servicePhone": "800259953"
+  },
+  "birthday": "1985-09-08T04:17:55.442Z",
+  "ip": "29.67.72.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Doruwi asobawi de suscetla va ofusilec li rucfocav lik cujfes rak pupoz lalmub siumo lewid. Ew zitu biuso faulivoh tu wajakoj seli ekoid iprisem kobuwbi mud fobsazo guzcudje essij biwahudo. Duril ajac itzicam eh dohowori babwewdi cokocmi igbof kod ulcul hih jec ula ra.",
+    "bio": "Lofpu jipfe ki sil binnipur kovtohba ligaepa du icuzosit sac hetvog miheces nilgoghi tafjaape dofvaogi vamvijsem da mabkalbo. Balkonpe viwbebsod ov du jeropa baofakeg ihre ecefus gorla col ko ojuko. Zeziflam famic pu kuta vumibo muluda tugbe nahoaho vodnaz vooje jajmuja ogivugnal iluze. Jeskuljij wavhopnel ogko dukgo luzod vatap wafda az temi litezuboj kiikad tobithol zuwa noca hu icgu uvdufhet. Um dul rahiwjuz je opetuani se nibkaiza ko ebu geslah uveejta kesoz wuluri av zofboz umuza zamollop bit. Gil udo muptopki hi kehog wagwa tolauhi letep ezipu potawvak jasgu icied rimko sidi nure. Kito oti vutis mor nihcuti tot bezbajkin ineujipin jepu suv epebilof jiju tuvofedan uheido fogpam sicji."
+  },
+  "apiKey": "6df65a5b649aa84a6cd0f7b84e0772c022d877fe8bd253ef8ecea5349cc804dd",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
