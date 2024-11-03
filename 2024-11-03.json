@@ -1,0 +1,26 @@
+{
+  "name": "Joe Newman",
+  "age": 46,
+  "address": {
+    "street": "Lugeh Glen",
+    "city": "Koetuca",
+    "state": "NC",
+    "zip": "43659"
+  },
+  "contact": {
+    "phone": "(575) 941-8536",
+    "servicePhone": "800947621"
+  },
+  "birthday": "1987-03-13T11:31:01.953Z",
+  "ip": "39.57.32.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Hew cob tok rahted jutikec usoen oteli uc ipirap secawsu siwujo ujeaj. Jus daplabim fip ifiuz nefwejoz tuwjo ruovi utefadi nig kunnalci jot rejohine gopik wu pet les guz no. Lurfeewo medgak loga huoce os ibof nej dilzebis lap laf bu ubpurvov zo roszateh nuse gic if. Zoljuj hoapcog ihabusun bew gocdal toliluvaj evaso siwna de tu magecbav wapowhit ubo.",
+    "bio": "Laza fe hemup vuhe hewlifih zita tiv wuzjoew vad ri jodag ru ci. Kig geckemuw fenottut gowubuizi acradwes suf bad hubfazez tuidado dugnab inza ozijevdun tuwavwad. Bac tiwap toj ewitac ijidov cac de gizogu zevbuji tedsafi riadbob po faeji cowicosu."
+  },
+  "apiKey": "171c0fac906bb7695992f987caba9563f3e91a5991e80db822a7d139815e3e25",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
