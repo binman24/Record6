@@ -1,0 +1,26 @@
+{
+  "name": "Eric Ruiz",
+  "age": 43,
+  "address": {
+    "street": "Woeka Grove",
+    "city": "Jukhanaz",
+    "state": "NV",
+    "zip": "90790"
+  },
+  "contact": {
+    "phone": "(651) 490-3561",
+    "servicePhone": "800338566"
+  },
+  "birthday": "1964-12-25T06:28:45.932Z",
+  "ip": "92.147.204.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Le kihrok hakuhvu pec poomgo gomec gaca defhis za aruwidoc ircul rad wo. Mu po gej olnufjel tufubbar nupi puvdojiv gi titel vi aftigma jup tagpasmus welven dalpo mihrodna li. Mutwamef sokanabi jafoj da lo ihkiabi nolerja remuta guzgelpik vofehwen tovnuzu epi kutze vik dici gegop.",
+    "bio": "Jukura nawlo fi eta wikas uteate benocin selrip copuwe vemfun pemeow nu fe. Iramolo ehfob vuahi asioba medde ir ozcaveli nop ba na ha mal et. Zo zodge saboas lib aw niva nevsa koceved hulmu timcitave ahbobfu ozi kel gapcefdo dene hep."
+  },
+  "apiKey": "041afa1c327aa8434b26858da629b67e37b05c278da855fea0cb8d2d5c503566",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
