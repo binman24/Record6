@@ -1,0 +1,26 @@
+{
+  "name": "Howard Potter",
+  "age": 43,
+  "address": {
+    "street": "Zummow Circle",
+    "city": "Arbitnoc",
+    "state": "RI",
+    "zip": "08395"
+  },
+  "contact": {
+    "phone": "(625) 626-6479",
+    "servicePhone": "800346843"
+  },
+  "birthday": "2000-01-03T12:32:41.584Z",
+  "ip": "134.253.162.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Kiw ol cohe da kabewwuv nawekuv pu gi zibolji co kuwmulhe pe fikgob ibu ku su naldespeg pehem. Pa rajak zarti lab du ujeabekih izatmog sik letkej nu nupas vin do zatupa lostuhvo igovo hira. Uwihup ru puvu lukerap topab kurde irgunhu wukam eze il if zortih dojca ir. Gufat sik cicaf sob uskusjed ockoucu gohu zecur tonefuam kunficzok uciwlis lilotbic zucekug bukra cim hosgo izpa. Jo dinizkub wogugo hogto coofe gipfoiwi zukjus bumu viimigu ugku nacoflow emreh ime. Fefri pimkegbo vipowpi sogu reteto gi ladoj voge liad leheg jiw wawdo sasbo gepat.",
+    "bio": "Uwu fuawe nab dir mirlih wuojpoh zimva tud aso eruliw ze teluvmuj. Waremom obusepga erodavlet bis civmosenu jati ga ufukiru kupnija uj jad gavbof cad orriv. Fe pav iro wemad ec motpo og tagihoz wusmabbip ojnikik sucidniz cuwjej. Mehmawe vaj vorer zedgidus ren maar jem ricazek kir uzawodud nihocziw tul vulisohi. Wucpehci hidizsu huf guf zebho lujrat aponomru udegego toffi uregewa sovabu ih hu nez ela onete. Ra zi cov mivah kicu doj wev oz vi da fajilduc jetmekes erajumkut geg lulpu wakonge niposge. Po ramcisab zinnecobi ni adudike divhonze omzovfah ovecec ikko bapazwi jumajef ribmu."
+  },
+  "apiKey": "30e6ee1e75fcd6e985b45063f82ca32e201f9f81c2a1ffb239b4d85a362e40c9",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
