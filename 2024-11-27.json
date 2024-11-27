@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Barrett",
+  "age": 19,
+  "address": {
+    "street": "Ujid Parkway",
+    "city": "Gabota",
+    "state": "AK",
+    "zip": "75412"
+  },
+  "contact": {
+    "phone": "(851) 852-5200",
+    "servicePhone": "800699961"
+  },
+  "birthday": "1986-02-26T05:28:59.511Z",
+  "ip": "153.98.152.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Moovo vacmib davfait uzucoso epero jaju hisazuw lebgo jutze uleg lo ut sogopif. Fod pi fe ecazov wuvasi natuwlu nec zeztiisa abfuw zihnet zazolfi furiz tabo cuna kojbom dok vencoal deduhug. Gewu il lulvitoca soipuroc ojlozmoz gaolcec kovijop wos dacaf ora pa ziv cimo su macunza.",
+    "bio": "Caleece zujeku umoji fun tawumoc todud oliaspa nup gi suhumo sevafge dis nowi cabfusok. Hifpafmi febacjo tus vet mu piwjo de wivvahban oveec sov gaca rafe imhak nehvorhuk inotewot. Ewoserik pabcivzo ag vubo der lek su gusimsud ginfinu tewup mum wubesle mabontaw wejurrop wa tezo pemmovig."
+  },
+  "apiKey": "8fd3a005f1e415ed82f5fc3f9eeeca4a8e414b7610c56c1fa8a4cfd1d9e5f239",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
