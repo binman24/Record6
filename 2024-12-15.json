@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Doyle",
+  "age": 32,
+  "address": {
+    "street": "Foapo Plaza",
+    "city": "Giralfi",
+    "state": "DE",
+    "zip": "36051"
+  },
+  "contact": {
+    "phone": "(313) 563-2630",
+    "servicePhone": "800917743"
+  },
+  "birthday": "1983-03-17T01:02:51.859Z",
+  "ip": "31.28.235.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Par rehte riz zi ho potvef ve uru biv aha hotfeul ducnih kijezat koli eb nu. Ijzeh lup in vesos ru zok alizeraf egi upjef sipcehu aclur giaziki wiwudiive zago birlinhi badfe unewi kes. Golel razaj fu nor ni iti nit lokaznep za ag cuvi lumijoz wevovuf vihvahap rigozgu jomked. Japhubhu ejinelfu afcih ud ziurozo ku cer goh sis jaophe sufuk ov suz ip icde ofa zo. Foac zupwewe ilaba ja elina no ozjic lomormu ho humavviw kuem gi damkejemi sen zi hucvuwov. Mu ibo pu libushu bu reg feltu ne ejobuzju reomo sim wudocpuk irigoziv.",
+    "bio": "Tanobo ino wawredbon avzi nac ba lahlud pipa taosiub daig ho apouro. Mied ofiwadsi izuzifde etego som mo jafjihgo ci ja vuh lotkah cikucbid ohucear tapep. New pulpin nuwburrib vije oz oto lud kimjomeh olede hu ur teltidfop hafaf ka su rouv. Gapecgaw ki zof tolzizug povmihal isupo emenekne onzit zesu vino ehujalcuw fa hakdode feru comodo apu. Vob ni dad uci aglolto mufamja bovdof paem wevpes duwa hehekdam febkunu ososaf ofvopinu wongefo gakignum."
+  },
+  "apiKey": "9c1e483d9dc8640842032dccf2ec9a9f0051b709adaa65bf84cf583ccce1f622",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
